@@ -1,9 +1,9 @@
 # Overview
 
 This program is meant to serve as proof that my development environment is up and running without issues.
-It does this by displaying "Hello World!" to the console.
+It does this by displaying "Hello World!" to the console using the "print" function in Python.
 
-The program was written in Python, which I chose to give myself a quick refresher in the language.
+I chose to write the program in Python as a means of giving myself a quick refresher in the language.
 I also included color tags because I had forgotten how to use them and wanted to remember.
 
 A demonstration of this program can be found at the link below:
